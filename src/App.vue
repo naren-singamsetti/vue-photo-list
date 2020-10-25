@@ -2,7 +2,7 @@
 <v-app>
     <v-app-bar app color="primary" dark>
         <div class="d-flex align-center row-pointer" @click="toHome()">
-            <v-img alt="Sample App Logo" class="shrink mr-2" contain src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png" transition="scale-transition" width="40" />
+            <v-img alt="Vue photo list Logo" class="shrink mr-2" contain src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png" transition="scale-transition" width="40" />
             <h2>POC APP</h2>
         </div>
         <v-spacer></v-spacer>
